@@ -1,1 +1,2 @@
-# Learnign java Practice solutions.
+# Solving Java Exercises...
+
