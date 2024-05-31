@@ -1,0 +1,234 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "evenOdd",
+      "request": "launch",
+      "mainClass": "Lab1.evenOdd",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "bonus",
+      "request": "launch",
+      "mainClass": "bonus",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "sum_user",
+      "request": "launch",
+      "mainClass": "Lab1.sum_user",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "SquareAndCube",
+      "request": "launch",
+      "mainClass": "SquareAndCube",
+      "projectName": "java pro_fb2f8528"
+    },
+    {
+      "type": "java",
+      "name": "FizzBuzz",
+      "request": "launch",
+      "mainClass": "FizzBuzz",
+      "projectName": "java pro_fb2f8528"
+    },
+    {
+      "type": "java",
+      "name": "DigitSum",
+      "request": "launch",
+      "mainClass": "DigitSum",
+      "projectName": "java pro_fb2f8528"
+    },
+    {
+      "type": "java",
+      "name": "Main1",
+      "request": "launch",
+      "mainClass": "Main1",
+      "projectName": "java pro_fb2f8528"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "java pro_fb2f8528"
+    },
+    {
+      "type": "java",
+      "name": "Launch Browser",
+      "request": "launch",
+      "mainClass": "Browser",
+      "projectName": "java pro_fb2f8528"
+    },
+    {
+      "type": "java",
+      "name": "Launch ChatServer",
+      "request": "launch",
+      "mainClass": "ChatServer",
+      "projectName": "java pro_fb2f8528"
+    },
+    {
+      "type": "java",
+      "name": "Launch Absolutevalue",
+      "request": "launch",
+      "mainClass": "Absolutevalue",
+      "projectName": "java pro_fb2f8528"
+    },
+    {
+      "type": "java",
+      "name": "Launch Agecheck",
+      "request": "launch",
+      "mainClass": "Agecheck",
+      "projectName": "java pro_fb2f8528"
+    },
+    {
+      "type": "java",
+      "name": "Launch Grade",
+      "request": "launch",
+      "mainClass": "Grade",
+      "projectName": "java pro_fb2f8528"
+    },
+    {
+      "type": "java",
+      "name": "Launch bonus",
+      "request": "launch",
+      "mainClass": "bonus",
+      "projectName": "java pro_fb2f8528"
+    },
+    {
+      "type": "java",
+      "name": "Launch Discount",
+      "request": "launch",
+      "mainClass": "Discount",
+      "projectName": "java pro_fb2f8528"
+    },
+    {
+      "type": "java",
+      "name": "Launch areacircle",
+      "request": "launch",
+      "mainClass": "areacircle",
+      "projectName": "java pro_fb2f8528"
+    },
+    {
+      "type": "java",
+      "name": "Launch vowel",
+      "request": "launch",
+      "mainClass": "vowel",
+      "projectName": "java pro_fb2f8528"
+    },
+    {
+      "type": "java",
+      "name": "Launch evenodd",
+      "request": "launch",
+      "mainClass": "evenodd",
+      "projectName": "java pro_fb2f8528"
+    },
+    {
+      "type": "java",
+      "name": "Launch swaping",
+      "request": "launch",
+      "mainClass": "swaping",
+      "projectName": "java pro_fb2f8528"
+    },
+    {
+      "type": "java",
+      "name": "Launch arithmetic",
+      "request": "launch",
+      "mainClass": "arithmetic",
+      "projectName": "java pro_fb2f8528"
+    },
+    {
+      "type": "java",
+      "name": "Launch opratores",
+      "request": "launch",
+      "mainClass": "opratores",
+      "projectName": "java pro_fb2f8528"
+    },
+    {
+      "type": "java",
+      "name": "Launch facto",
+      "request": "launch",
+      "mainClass": "facto",
+      "projectName": "java pro_fb2f8528"
+    },
+    {
+      "type": "java",
+      "name": "Launch main",
+      "request": "launch",
+      "mainClass": "main",
+      "projectName": "java pro_fb2f8528"
+    },
+    {
+      "type": "java",
+      "name": "Launch starpatn",
+      "request": "launch",
+      "mainClass": "starpatn",
+      "projectName": "java pro_fb2f8528"
+    },
+    {
+      "type": "java",
+      "name": "Launch prc2",
+      "request": "launch",
+      "mainClass": "prc2",
+      "projectName": "java pro_fb2f8528"
+    },
+    {
+      "type": "java",
+      "name": "Launch get_details",
+      "request": "launch",
+      "mainClass": "get_details",
+      "projectName": "java pro_fb2f8528"
+    },
+    {
+      "type": "java",
+      "name": "Launch get_datails",
+      "request": "launch",
+      "mainClass": "get_datails",
+      "projectName": "java pro_fb2f8528"
+    },
+    {
+      "type": "java",
+      "name": "Launch prc1",
+      "request": "launch",
+      "mainClass": "prc1",
+      "projectName": "java pro_fb2f8528"
+    },
+    {
+      "type": "java",
+      "name": "Launch prime",
+      "request": "launch",
+      "mainClass": "prime",
+      "projectName": "java pro_fb2f8528"
+    },
+    {
+      "type": "java",
+      "name": "Launch dowhilemarks",
+      "request": "launch",
+      "mainClass": "dowhilemarks",
+      "projectName": "java pro_fb2f8528"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "d:/java pro",
+      "program": "d:/java pro/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
