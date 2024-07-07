@@ -13,7 +13,7 @@ class Employee {
     }
   }
 
-  class Manager extends Employee {
+  class Manager extends Employees {
     private String department;
 
     public Manager(String name, double salary, String department) {
@@ -30,7 +30,7 @@ class Employee {
 
   class Main {
     public static void main(String[] args) {
-      Employee employee = new Employee("Anuj Yadav", 450000.0);
+      Employees employee = new Employees("Anuj Yadav", 450000.0);
       Manager manager = new Manager("Sonu Sharam", 70000.0, "Engineering");
 
       System.out.println("Employee Details:");
