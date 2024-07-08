@@ -5,6 +5,7 @@ public class Student implements InstitutionMember, AcademicMember{
     private int StudentId;
     private String course;
     private String academicYear;
+    private String class;
 
     public Student(String name, int StudentId, String course, String academicYear) {
         this.name = name;
