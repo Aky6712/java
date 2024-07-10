@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "fileHandling",
+      "request": "launch",
+      "mainClass": "fileHandling",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "MultiThreading",
+      "request": "launch",
+      "mainClass": "MultiThreading",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
       "name": "ExceptionHandling",
       "request": "launch",
       "mainClass": "ExceptionHandling",

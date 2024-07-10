@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author GIGABYTE
+ *
+ */
+module MyProject {
+}
